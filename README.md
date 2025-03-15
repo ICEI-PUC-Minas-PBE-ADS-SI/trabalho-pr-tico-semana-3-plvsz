@@ -8,17 +8,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Pedro Henrique Alves Emerick
+- Matricula: 881127
+- Proposta de projeto escolhida: Diretório de Receitas
+- Breve descrição sobre seu projeto: Fiz um site de receitas com receitas diversas.
 
 
 ## Print do esboço criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text]({069EA1BD-84F9-4EAC-9F97-090F25BEBA50}.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image.png)
